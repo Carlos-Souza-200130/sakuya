@@ -1,0 +1,22 @@
+img{
+    border: 10px dashed;
+    border-color: #0400ff #ff0000 #02008d #8d0000;
+    padding: 25px 400px;
+    background-color: #001058;
+    margin: 50px 10px;
+}
+
+.titulo{
+    padding: 10px 450px;
+    background-color: #4ca171;
+    border: 5px solid #ff4747d0;
+}
+
+.botao{
+      margin: 50px 550px;
+      color: #ffffff;
+      padding: 15px 35px;
+      background-color: #2b2929ec;
+      border: 2.5px solid;
+      border-color: #000000;
+}
